@@ -6,4 +6,4 @@ It was a project created by me from scratch for my university project. It's just
 
 
 How to run this:
-1. Use VS Code Live Server or Bracket to run this code/game on your brower to get the whole experience
+Use VS Code Live Server or Bracket to run this code/game on your brower to get the whole experience
